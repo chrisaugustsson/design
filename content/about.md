@@ -1,10 +1,16 @@
-About this site
+Om denna sidan
 ==============================================
 
-The primary focus of this site is to:
+Denna sidan är del av kursen "Design" som en del av programmet "webprogrammering" på BTH.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+<img src="img/create.jpg" alt="create" style="max-width: 300px; float: right;">
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Kursen syftar till en orientering inom områden design och användbarhet, specifikt för tillämpningsområdet webb.
+Kursen har tekniken som utgångspunkt, där olika tekniker introduceras och används för att underlätta webbdesign
+och användbarhet för webbplatsen med syftet att skapa en korrekt och användarvänlig webbplats.
 
-This site is produced by Christopher Augustsson.
+Läs mer här: [dbwebb course design](http://dbwebb.se/design).
+
+Källkoden för denna sidan hittar du på GitHub: [Länk till github](https://github.com/chrisaugustsson/design/tree/1.1.0)
+
+Skapad av Christopher Augustsson.
