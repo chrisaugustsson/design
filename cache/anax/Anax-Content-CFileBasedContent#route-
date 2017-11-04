@@ -1,0 +1,54 @@
+O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:4:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:0:"";s:4:"text";s:4:"Home";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:14:"img/laptop.jpg";}}s:6:"byline";a:5:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:521:"<div style = "border: 1px solid #bbb; max-width: 500px; min-width: 192px; padding: 20px 20px; font-size: 18px; margin: auto;">
+    <img src="http://localhost:8080/dbwebb/design/me/anax-flat/htdocs/img/me.jpg" alt="me" style = "width: 120px; height: 120px; float: left; padding-right: 20px;"/>
+    <p style = "max-width: 620px; width: auto; margin: auto; padding-top: 10px; min-height: 100px;"> <b>Christopher Augustsson</b>, serviceingejör inom provning och pappa till tre. Läser webprogrammering på BTH. </p>
+
+</div>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:7:"content";s:2633:"<h1>Me-sida i kursen Design</h1>
+
+<p>Vem är jag?</p>
+
+<p>Christopher Augustsson är mitt namn. Uppvuxen i en liten ort som heter Kinna, i ett nybyggt radhusområde fullt med andra barn i samma ålder.</p>
+
+<p>Hela mit liv har jag haft ett intresse för att skapa saker, samt teknik. Redan som 6-åring gav jag mig på att laga nattlampan
+som slutat fungera. Det var besvärligt att hålla i den samtidigt som jag försökte plocka isär den, men som tur var passade den perfekt i vägguttaget - och där
+fick den givetvis sitta samtidigt som jag försökte klura ut vad som var fel. Ja, ni kan ju föreställa er hur det gick&#8230;</p>
+
+<p>Senare i tonåren fick jag min första dator. Eller ja, delarna till en dator. Med ensamstående mamma och två mindre bröder fanns inte resurserna att köpa en ny dator -
+men som tur var fick jag några trasiga datorer av min styvfar med olika fel. Genom att ta isär dom och använda olika delar som fungerade, lyckades jag få ihop
+en fungerande dator. Att lyckas få ihop något som fungerar av en hög med skräp gav mig mersmak och när det väl var dags att välja gymnasieinriktning var det inte speciellt svårt.
+Jag valde då att läsa elprogrammet med inriktning mot automation och där fick jag bland annat lära mig att programmera robotar och PLC-system. Efter gymnasiet
+var min plan att jobba nåt år och sedan läsa vidare för att sedan kunna jobba med robotar. Av olika anledningar blev det inte så och istället började jag arbeta
+med hissar. Detta gjorde jag i ungefär 9 år och har i princip provat allt man kan i hissbranschen - från servicetekniker till säljare.</p>
+
+<p>För tillfället är jag anställd som serviceingenjör på ett företag som heter MTS Systems. MTS är ett amerikanskt ägt bolag som tillverkar och servar maskiner för all typ av provning. MTS täcker allt från bil-/ jorbävningssimulatorer till enkla dragprovare. Det är ett stort spann av både tekniker och branscher - något som passar mig då jag behöver mycket variation och utmaningar för att hålla mig motiverad. Yrket som serviceingenjör går dels ut på att kalibrera, serva, installera nämnda maskiner - och även att utbilda, konsultera kunder i hur man hanterar deras riggar.</p>
+
+<p>Andra intressen jag har är kampsport. Började träna boxning när jag var 16 år gammal och har väl hållt på med någon form av kampsort till och från sedan dess. Men med hus och tre barn finns det inte så mycket tid över för andra intressen.</p>
+
+<p>Tack för mig.</p>
+
+<p><img src="http://localhost:8080/dbwebb/design/me/anax-flat/htdocs/img/me.jpg" alt="alt text" /></p>
+";s:7:"excerpt";s:2633:"<h1>Me-sida i kursen Design</h1>
+
+<p>Vem är jag?</p>
+
+<p>Christopher Augustsson är mitt namn. Uppvuxen i en liten ort som heter Kinna, i ett nybyggt radhusområde fullt med andra barn i samma ålder.</p>
+
+<p>Hela mit liv har jag haft ett intresse för att skapa saker, samt teknik. Redan som 6-åring gav jag mig på att laga nattlampan
+som slutat fungera. Det var besvärligt att hålla i den samtidigt som jag försökte plocka isär den, men som tur var passade den perfekt i vägguttaget - och där
+fick den givetvis sitta samtidigt som jag försökte klura ut vad som var fel. Ja, ni kan ju föreställa er hur det gick&#8230;</p>
+
+<p>Senare i tonåren fick jag min första dator. Eller ja, delarna till en dator. Med ensamstående mamma och två mindre bröder fanns inte resurserna att köpa en ny dator -
+men som tur var fick jag några trasiga datorer av min styvfar med olika fel. Genom att ta isär dom och använda olika delar som fungerade, lyckades jag få ihop
+en fungerande dator. Att lyckas få ihop något som fungerar av en hög med skräp gav mig mersmak och när det väl var dags att välja gymnasieinriktning var det inte speciellt svårt.
+Jag valde då att läsa elprogrammet med inriktning mot automation och där fick jag bland annat lära mig att programmera robotar och PLC-system. Efter gymnasiet
+var min plan att jobba nåt år och sedan läsa vidare för att sedan kunna jobba med robotar. Av olika anledningar blev det inte så och istället började jag arbeta
+med hissar. Detta gjorde jag i ungefär 9 år och har i princip provat allt man kan i hissbranschen - från servicetekniker till säljare.</p>
+
+<p>För tillfället är jag anställd som serviceingenjör på ett företag som heter MTS Systems. MTS är ett amerikanskt ägt bolag som tillverkar och servar maskiner för all typ av provning. MTS täcker allt från bil-/ jorbävningssimulatorer till enkla dragprovare. Det är ett stort spann av både tekniker och branscher - något som passar mig då jag behöver mycket variation och utmaningar för att hålla mig motiverad. Yrket som serviceingenjör går dels ut på att kalibrera, serva, installera nämnda maskiner - och även att utbilda, konsultera kunder i hur man hanterar deras riggar.</p>
+
+<p>Andra intressen jag har är kampsport. Började träna boxning när jag var 16 år gammal och har väl hållt på med någon form av kampsort till och från sedan dess. Men med hus och tre barn finns det inte så mycket tid över för andra intressen.</p>
+
+<p>Tack för mig.</p>
+
+<p><img src="http://localhost:8080/dbwebb/design/me/anax-flat/htdocs/img/me.jpg" alt="alt text" /></p>
+";}}}s:11:"frontmatter";a:2:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"title";s:23:"Me-sida i kursen Design";}}
